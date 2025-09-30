@@ -1,0 +1,23 @@
+[
+    {
+        "latitude": 23.5057984,
+        "longitude": 71.061475,
+        "full_address": "Sukhpar (Rapar), Rapar Taluka, Kachchh, Gujarat, 370155, India",
+        "city": "Sukhpar (Rapar)",
+        "state": "Gujarat",
+        "country": "India",
+        "accuracy": 2.3108533321444957,
+        "user_ip": "127.0.0.1"
+    },
+    {
+        "latitude": 23.5057984,
+        "longitude": 71.061475,
+        "full_address": "Sukhpar (Rapar), Rapar Taluka, Kachchh, Gujarat, 370155, India",
+        "city": "Sukhpar (Rapar)",
+        "state": "Gujarat",
+        "country": "India",
+        "accuracy": 2.3108533321444957,
+        "user_ip": "127.0.0.1",
+        "browser": "PostmanRuntime/7.48.0"
+    }
+]
