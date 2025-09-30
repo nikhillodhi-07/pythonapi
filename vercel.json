@@ -11,8 +11,17 @@
     }
   ],
   "routes": [
-    { "src": "/location", "dest": "api/location.py" },
-    { "src": "/locations", "dest": "api/locations.py" },
-    { "src": "/", "dest": "templates/index.html" }
+    {
+      "src": "/location",
+      "dest": "api/location.py"
+    },
+    {
+      "src": "/locations",
+      "dest": "api/locations.py"
+    },
+    {
+      "src": "/",
+      "dest": "templates/index.html"
+    }
   ]
 }
